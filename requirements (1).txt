@@ -1,0 +1,12 @@
+pyrogram
+tgcrypto
+pytgcalls==2.0.6
+ntgcalls==2.0.6
+motor
+pymongo
+redis
+requests
+psutil
+beautifulsoup4
+asyncio
+googletrans==4.0.0-rc1
